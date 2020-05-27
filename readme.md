@@ -1,3 +1,3 @@
 ## EpicTV Streaming
 
-EpicTV is a Laravel based TV streaming project
+EpicTV is a Laravel based live streaming project
